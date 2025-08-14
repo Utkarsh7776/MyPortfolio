@@ -1,0 +1,119 @@
+/* General Styles */
+body {
+  background-color: #0B1020; /* Dark background */
+  color: #f5f5f5; /* Light text */
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #1E3A8A !important; /* Navy Blue */
+}
+.navbar a {
+  color: #f5f5f5 !important;
+  transition: color 0.3s ease;
+}
+.navbar a:hover {
+  color: #F59E0B !important; /* Amber Accent */
+}
+
+/* Hero Section */
+#home {
+  padding: 100px 0;
+  background: linear-gradient(135deg, #1E3A8A, #0B1020);
+}
+#home h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+#home p {
+  font-size: 1.2rem;
+  color: #d1d5db;
+}
+#home button {
+  font-weight: 600;
+}
+
+/* About Section */
+#about {
+  background-color: #111827;
+  padding: 80px 0;
+}
+#about img {
+  border: 5px solid #F59E0B;
+}
+
+/* Skills Section */
+#skills .card {
+  background-color: #1E293B;
+  color: white;
+  border: none;
+  transition: transform 0.3s ease;
+}
+#skills .card:hover {
+  transform: translateY(-5px);
+  background-color: #334155;
+}
+
+/* Projects Section */
+#projects .card {
+  background-color: #1E293B;
+  color: white;
+  border: none;
+  transition: transform 0.3s ease;
+}
+#projects .card:hover {
+  transform: translateY(-5px);
+  background-color: #334155;
+}
+#projects a {
+  color: #F59E0B;
+  text-decoration: none;
+}
+#projects a:hover {
+  text-decoration: underline;
+}
+
+/* Experience Section */
+#experience {
+  background-color: #111827;
+  padding: 80px 0;
+}
+#experience h5 {
+  color: #F59E0B;
+}
+
+/* Education Section */
+#education {
+  padding: 80px 0;
+}
+#education table {
+  background-color: #1E293B;
+  color: white;
+}
+#education th {
+  background-color: #F59E0B;
+  color: black;
+}
+
+/* Contact Section */
+#contact {
+  background-color: #111827;
+  padding: 80px 0;
+}
+#contact a {
+  color: #F59E0B;
+  text-decoration: none;
+}
+#contact a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #1E3A8A;
+  text-align: center;
+  font-size: 0.9rem;
+}
