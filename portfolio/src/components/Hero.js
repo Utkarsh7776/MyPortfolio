@@ -17,12 +17,13 @@ export default function Hero() {
             href="#projects"
             className="me-2"
             data-aos="zoom-in"
+            
           >
             View Projects
           </Button>
           <Button
             variant="outline-light"
-            href="Uttkarsh.Chaudhari-JavaFullStack.pdf"
+            href="https://drive.google.com/open?id=1x94hxZ8qpv-GsdmWyuQlDbbWxYYhToNg&usp=drive_fs"
             download
             data-aos="zoom-in"
             data-aos-delay="200"

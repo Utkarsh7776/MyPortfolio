@@ -6,7 +6,7 @@ export default function Experience() {
     <Container className="py-5" id="experience">
       <h2 className="text-center mb-4">Experience</h2>
       <Row>
-        <Col data-aos="fade-up">
+        <Col data-aos="fade-up" className="ms-4">
           <h5>Java Full Stack Developer Intern</h5>
           <p><strong>Cravitas Technologies, Pune</strong> | Jan 2025 – May 2025</p>
           <ul>

@@ -9,6 +9,7 @@ body {
 
 /* Navbar */
 .navbar {
+  
   background-color: #1E3A8A !important; /* Navy Blue */
 }
 .navbar a {
@@ -39,7 +40,11 @@ body {
 /* About Section */
 #about {
   background-color: #111827;
+  color:#d1d5db ;
+  margin-top: 40px;
   padding: 80px 0;
+  border-radius: 10px;
+  
 }
 #about img {
   border: 5px solid #F59E0B;
@@ -60,7 +65,7 @@ body {
 /* Projects Section */
 #projects .card {
   background-color: #1E293B;
-  color: white;
+  color: rgb(255, 255, 255);
   border: none;
   transition: transform 0.3s ease;
 }
@@ -79,6 +84,7 @@ body {
 /* Experience Section */
 #experience {
   background-color: #111827;
+  color:#d1d5db;
   padding: 80px 0;
 }
 #experience h5 {
@@ -101,7 +107,9 @@ body {
 /* Contact Section */
 #contact {
   background-color: #111827;
+  color:#d1d5db;
   padding: 80px 0;
+  margin-bottom: 50px;
 }
 #contact a {
   color: #F59E0B;
