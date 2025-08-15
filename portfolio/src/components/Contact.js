@@ -5,7 +5,7 @@ import { FaEnvelope, FaLinkedin, FaGithub, FaPhone } from "react-icons/fa";
 export default function Contact() {
   return (
     <Container className="py-5" id="contact">
-      <h2 className="text-center mb-4">Contact</h2>
+      <h2 className="text-center mb-4">CContact</h2>
       <Row className="text-center">
         <Col md={3}><FaEnvelope /> utkarshuc7776@gmail.com</Col>
         <Col md={3}><FaPhone /> 7020073276</Col>
