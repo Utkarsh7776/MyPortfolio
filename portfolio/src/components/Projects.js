@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Student Management System",
     desc: "CRUD app using Spring Boot, Hibernate, Thymeleaf, and MySQL.",
-    github: "#",
+    github: "https://github.com/Utkarsh7776/SpringBootProject.git",
     tech: "Spring Boot, Hibernate, MySQL, Thymeleaf"
   }
 ];

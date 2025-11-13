@@ -23,8 +23,8 @@ export default function Hero() {
           </Button>
           <Button
             variant="outline-light"
-            href="https://drive.google.com/open?id=1x94hxZ8qpv-GsdmWyuQlDbbWxYYhToNg&usp=drive_fs"
-            download
+            href=".\Uttkarsh.Chaudhari-JavaFullStack.pdf"
+           download="Utkarsh_Resume.pdf"
             data-aos="zoom-in"
             data-aos-delay="200"
           >

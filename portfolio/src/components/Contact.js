@@ -11,7 +11,7 @@ export default function Contact() {
         <Col md={3}><FaPhone /> 7020073276</Col>
         <Col md={3}>
           <FaLinkedin />{" "}
-          <a href="https://www.linkedin.com/in/utkarsh-chaudhari-1179ab36a">
+          <a href="https://www.linkedin.com/in/uttkarsh-chaudhari-1179ab36a/">
             LinkedIn
           </a>
         </Col>
